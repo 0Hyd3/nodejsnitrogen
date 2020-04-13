@@ -18,4 +18,4 @@ Vá em banco.js e configure
 
 Se você fez alguma coisa errada ou o programa abriu e fechou entre em contato com o suporte!
 
-AVISO: MESMO não sendo comprovado esse gen dar ban não nos resposabilizamos por banimentos!ECKED)
+### AVISO: MESMO não sendo comprovado esse gen dar ban não me resposabilizo por banimentos!
